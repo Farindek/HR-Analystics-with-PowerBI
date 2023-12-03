@@ -1,16 +1,16 @@
 # HR-Analystics-with-PowerBI
-This is an analysis that gives HR an insight on their employees attendance.
+This is an analysis that gives HR an insight into their employees attendance.
 
-# Problem Statement/ Insight
-This dashboard helps the HR understand their workers better. They get to see the present days % vs the absent days %. 
+# Problem Statement/Insight
+This dashboard helps HR understand their workers better. They get to see the present days % vs. the absent days %.
 It was seen in this analysis that employees are present over 83% of the year and 16% absent.
 
-Very few of these employees get to work from home and Friday also happens to be the day with the highest record of absent, as a matter  of fact, absentism increases as we move towards the end of week which is Friday.
+Very few of these employees get to work from home, and Friday also happens to be the day with the highest record of absenteeism. As a matter of fact, absenteeism increases as we move towards the end of the week, which is Friday.
 
 ## Steps Followed
 -- Step 1: Gathered data requirement from https://codebasics.io/resources/resume-project-data-analytics
--- Step 2: Studied the data and noted a few problems to solved by understanding the requirements
--- Step 3: Data had 3 files in a folder which represented 3months attendance, April, May, and June
+- Step 2: Studied the data and noted a few problems to solved by understanding the requirements
+- Step 3: Data had 3 files in a folder which represented 3months attendance, April, May, and June
 -- Step 4: Load the excel files through Get Data
 -- Step 5: Data transformation was done in Power Query and the next bullets describe what was done
 -- Step 6: Filtered rows to have just one month report
