@@ -8,8 +8,8 @@ It was seen in this analysis that employees are present over 83% of the year and
 Very few of these employees get to work from home, and Friday also happens to be the day with the highest record of absenteeism. As a matter of fact, absenteeism increases as we move towards the end of the week, which is Friday.
 
 ## Steps Followed
--- Step 1: Gathered data requirement from https://codebasics.io/resources/resume-project-data-analytics
-- Step 2: Studied the data and noted a few problems to solved by understanding the requirements
+ Markup : - Step 1: Gathered data requirement from https://codebasics.io/resources/resume-project-data-analytics
+ Markup : - Step 2: Studied the data and noted a few problems to solved by understanding the requirements
 - Step 3: Data had 3 files in a folder which represented 3months attendance, April, May, and June
 -- Step 4: Load the excel files through Get Data
 -- Step 5: Data transformation was done in Power Query and the next bullets describe what was done
