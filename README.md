@@ -10,8 +10,8 @@ Very few of these employees get to work from home, and Friday also happens to be
 ## Steps Followed
 - Step 1: Gathered data requirement from https://codebasics.io/resources/resume-project-data-analytics
 - Step 2: Studied the data and noted a few problems to solved by understanding the requirements
-- Step 3: Data had 3 files in a folder which represented 3months attendance: April, May, and June
-- Step 4: Load the excel files through Get Data
+- Step 3: Data had 3 tables in a file which represented 3months attendance: April, May, and June
+- Step 4: Load the excel file through Get Data
 - Step 5: Data transformation was done in Power Query and the next bullets describe what was done
 - Step 6: Filter rows to have just one-month report
 - Step 7: Removed other columns and was left with just the data column since the transformation will be done on that month
